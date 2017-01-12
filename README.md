@@ -12,6 +12,7 @@
 ##Tirsdag - 25.04.2017
 ###Unified Process and Use Cases
 Obtain general knowledge about basic principles in UP
+
 **Know**
 - the purpose of typical activities in each phase in UP
 - the types of artifacts that may be created in each phase

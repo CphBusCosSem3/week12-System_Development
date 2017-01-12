@@ -5,6 +5,7 @@
 **Know**
 - how agile teams work with requirements and quality assurance
 - the principles of ATDD
+
 **Be able to**
 - specify and break down user stories 
 
@@ -17,6 +18,7 @@ Obtain general knowledge about basic principles in UP
 - how models are refined and extended througout iterations
 - how use case ranking is applied in planning
 - how adaptive planning is applied in UP
+
 **Be able to**
 - write a use case
 
@@ -37,6 +39,7 @@ Obtain general knowledge about basic principles in UP
 - the purpose of typical test activities
 - the principles of Test First Development
 - concrete examples of refactoring
+
 **Be able to**
 - describe different test levels (unit, integration, system, acceptance)
 - work according to the principles of Test First Development

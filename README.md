@@ -48,5 +48,5 @@ Obtain general knowledge about basic principles in UP
 - Use JUnit to create an automated unit test suite
 
 ##Fredag - 28.04.2017
-* Eksamens spørgsmål
+* [Eksamens spørgsmål](Exam_Questions_week_2.pdf)
 * Study Point opgave

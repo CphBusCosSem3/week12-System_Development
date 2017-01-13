@@ -1,7 +1,6 @@
 #Uge 17 - System Development
 
-##Mandag - 24.04.2017
-##[Agile software requirements](Agile_software_requirements.md)
+##Mandag - 24.04.2017 - [Agile software requirements](Agile_software_requirements.md)
 
 **Know**
 - how agile teams work with requirements and quality assurance
@@ -10,8 +9,7 @@
 **Be able to**
 - specify and break down user stories 
 
-##Tirsdag - 25.04.2017
-##[Unified Process and Use Cases](Unified_Process_and_Use_Cases.md)
+##Tirsdag - 25.04.2017 - [Unified Process and Use Cases](Unified_Process_and_Use_Cases.md)
 Obtain general knowledge about basic principles in UP
 
 **Know**
@@ -24,8 +22,7 @@ Obtain general knowledge about basic principles in UP
 **Be able to**
 - write a use case
 
-##Onsdag - 26.04.2017
-##[Prototyping and Spikes](Prototyping_and_Spikes.md)
+##Onsdag - 26.04.2017 - [Prototyping and Spikes](Prototyping_and_Spikes.md)
 **Be able to**
 - characterize the prototyping concept
 - explain 3 classes of prototyping: For exploratory, experimental and evolutionary
@@ -33,8 +30,7 @@ Obtain general knowledge about basic principles in UP
 - suggest relevant usage of prototypes in XP (which class and when)
 - relate the concepts protyping and spikes
 
-##Torsdag - 27.04.2017
-##[Test and TFD-TDD](Test_and_TFD-TDD.md)
+##Torsdag - 27.04.2017 - [Test and TFD-TDD](Test_and_TFD-TDD.md)
 **Know**
 - how test activities contribute to the sw-development process
 - basic terminology related to testing

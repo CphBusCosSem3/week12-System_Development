@@ -9,7 +9,7 @@
 **Be able to**
 - Specify and break down user stories 
 
-##[Unified Process and Use Cases](Unified_Process_and_Use_Cases.md) - Tirsdag - 25.04.2017
+##[Unified Process and Use Cases](Unified_Process_and_Use_Cases.md) - Tirsdag - 25.04.2017  
 Obtain general knowledge about basic principles in UP
 
 **Know**

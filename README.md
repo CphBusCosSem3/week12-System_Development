@@ -48,3 +48,7 @@ Obtain general knowledge about basic principles in UP
 ##Fredag - 28.04.2017
 * [Eksamens spørgsmål](Exam_Questions_week_2.pdf)
 * Study Point opgave
+
+* Mødetider for Scrum Planing
+https://docs.google.com/document/d/18n_K0zhyMOGeUH8gzSpa4Yc30sHgS9pTWhTo0SSXLlU/edit?usp=sharing 
+

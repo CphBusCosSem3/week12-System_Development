@@ -38,12 +38,18 @@ Obtain general knowledge about basic principles in UP
 - Basic terminology related to testing
 - The purpose of typical test activities
 - The principles of Test First Development
-- Toncrete examples of refactoring
+- Concrete examples of refactoring
+- About Continuous Integration, Travis and how to use it with Maven
 
 **Be able to**
 - Describe different test levels (unit, integration, system, acceptance)
 - Work according to the principles of Test First Development
-- Use JUnit to create an automated unit test suite
+- Use Maven to separate Unit and Integration Tests
+- Work in a team, doin Test First Developent, and Continuous Integration with Travis-CI.
+- [CI-Slides](https://docs.google.com/presentation/d/1DJethswzzF2NxgJwmVL_5jsAyxHypWXPaSHMZXbEKus/edit#slide=id.p18)
+- [Travis - getting started](https://docs.google.com/document/d/18fqPB1J6ntyAQKpAViQjzw2sxEqL7ifVMQ5bwDzoKZY/edit)
+- [Travis- preparing for the semester project](https://docs.google.com/document/d/19uxxbDeh8ilzUP1JRiRxRytNzay-93ZmsROKFMnsjEw/edit)
+
 
 ##Fredag - 28.04.2017
 * [Eksamens spørgsmål](Exam_Questions_week_2.pdf)

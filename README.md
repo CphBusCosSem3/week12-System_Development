@@ -49,7 +49,7 @@ Obtain general knowledge about basic principles in UP
 - [CI-Slides](https://docs.google.com/presentation/d/1DJethswzzF2NxgJwmVL_5jsAyxHypWXPaSHMZXbEKus/edit#slide=id.p18)
 - [CI- readings](https://en.wikipedia.org/wiki/Continuous_integration)
 - [Travis - getting started](https://docs.google.com/document/d/18fqPB1J6ntyAQKpAViQjzw2sxEqL7ifVMQ5bwDzoKZY/edit)
-- [Travis- preparing for the semester project](https://docs.google.com/document/d/19uxxbDeh8ilzUP1JRiRxRytNzay-93ZmsROKFMnsjEw/edit)
+- [Travis- preparing for the semester project](https://docs.google.com/document/d/19uxxbDeh8ilzUP1JRiRxRytNzay-93ZmsROKFMnsjEw/edit?usp=sharing)
 
 
 ##Fredag - 28.04.2017
